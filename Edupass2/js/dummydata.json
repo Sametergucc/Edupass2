@@ -1,52 +1,52 @@
 [
   {
     "id": 1,
-    "name": "Sailfleet Yat İşletmeciliği",
-    "category": "Son 1 hafta",
-    "price": "Saha/Operasyon Elemanı",
-    "url": "assets/menu/i1.jpeg"
+    "name": "Saha/Operasyon Elemanı",
+    "category": "Front-end-dev",
+    "price": "Ali Demir",
+    "url": "assets/home/5.jpeg"
   },
   {
     "id": 2,
-    "name": "SmartICT Bilişim A.Ş",
-    "category": "Son 1 hafta",
-    "price": "Kıdemli Test Mühendisi",
-    "url": "assets/menu/i2.png"
+    "name": "Kıdemli Test Mühendisi",
+    "category": "Back-end-dev",
+    "price": "Zehra Güroğlu",
+    "url": "assets/home/1.jpeg"
   },
   {
     "id": 3,
-    "name": "Baked Chicken",
-    "category": "Son 1 hafta",
-    "price": 19.5,
-    "url": "assets/menu/dinner1.png"
+    "name": "Satış Destek Uzmanı",
+    "category": "Game-dev",
+    "price":  "Mehmet Yıldırım",
+    "url": "assets/home/6.jpeg"
   },
   {
     "id": 4,
-    "name": "Breakfast Sandwich",
-    "category": "Son 1 hafta",
-    "price": 19.5,
-    "url": "assets/menu/breakfast2.png"
+    "name": "TEKNOLOJİ PAZARLAMA UZM.",
+    "category": "Front-end-dev",
+    "price": "Betül Şanlı",
+    "url": "assets/home/2.jpeg"
   },
   {
     "id": 5,
-    "name": "Honey with Peppers",
-    "category": "Son 1 hafta",
-    "price": 19.5,
-    "url": "assets/menu/lunch2.png"
+    "name": "Kıdemli Test Mühendisi",
+    "category": "cyber-security",
+    "price": "Nisa Nur Türker",
+    "url": "assets/home/3.jpeg"
   },
   {
     "id": 6,
-    "name": "Lemony Salmaon Piccata",
-    "category": "Son 1 hafta",
-    "price": 19.5,
-    "url": "assets/menu/dinner2.png"
+    "name": "Key Account Manager",
+    "category": "Front-end-dev",
+    "price": "Sude Canlı",
+    "url": "assets/home/4.jpeg"
   },
   {
     "id": 7,
     "name": "Baked Chiken",
     "category": "Son 1 hafta",
     "price": 19.5,
-    "url": "assets/menu/breakfast3.png"
+    "url": "assets/home/5.jpeg"
   },
   {
     "id": 8,
