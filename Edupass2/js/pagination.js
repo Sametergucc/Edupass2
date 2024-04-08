@@ -137,7 +137,7 @@ async function createMenuElement(item) {
    
    <a 
    class="bg-blue-500 text-white px-6 py-2 focus:outline-none poppins rounded-full mt-24 transform transition duration-300 hover:scale-105"
-   href="profile.html?id=${item.id}"> İncele
+   href="profile.html?id=${item.id}">Review
    </a>
    </div>
 </div>
